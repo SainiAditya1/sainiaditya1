@@ -3,7 +3,7 @@
 <!-- <h1> allign="centre"</h1> -->
 <h3 align="center">A passionate web developer </h3>
 
-<h3 align="left">Reach out to  me: Adityasaini10012001@outlook.com</h3>
+<h3 align="left">Reach out to  me at: Adityasaini10012001@outlook.com</h3>
 
 <p align="left">
 </p>
