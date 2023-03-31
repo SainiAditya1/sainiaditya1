@@ -7,14 +7,14 @@
 <!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sainiaditya1&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact) -->
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
- -->
+ 
  
  <div align="center">
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
 </div>  
   
 
-### <div align="center">I'm Aditya Saini, a full-time full-stack web developer</div>  
+### <div align="center">I'm Aditya Saini, a  full-stack web developer</div>  
   
 
 - 🔭 I’m currently working on Rust  
