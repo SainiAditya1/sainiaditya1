@@ -20,7 +20,7 @@
 - 🔭 I’m currently working on Rust  
   
 
-- 🌱 I’m currently learning  Machine Learning and Docker  
+- 🌱 I’m currently learning   Docker  
   
 
 - ❓ Ask me about anything   
