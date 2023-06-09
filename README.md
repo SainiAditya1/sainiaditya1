@@ -27,6 +27,15 @@
 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=sainiaditya1&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=sainiaditya1&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=sainiaditya1&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<!-- ![](https://github-readme-stats.vercel.app/api?username=sainiaditya1&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=sainiaditya1&theme=dark&hide_border=false)<br/> -->
+
+<div style="display: flex; justify-content: space-between;">
+  <img src="https://github-readme-stats.vercel.app/api?username=sainiaditya1&theme=dark&hide_border=false&include_all_commits=false&count_private=false" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sainiaditya1&theme=dark&hide_border=false" alt="GitHub Streak" />
+</div>
+
+
+
+
+<!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sainiaditya1&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact) -->
