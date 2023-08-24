@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://sainiaditya1.github.io/personal_portfolio/](https://sainiaditya1.github.io/personal_portfolio/)
 
-- 💬 Ask me about **anthing**
+- 💬 Ask me about **React**
 
 - 📫 How to reach me **Adityasaini10012001@outlook.com**
 
