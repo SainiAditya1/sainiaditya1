@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Rust**
 
-- 🌱 I’m currently learning **Docker**
+- 🌱 I’m currently learning **Devops**
 
 - 👨‍💻 All of my projects are available at [https://sainiaditya1.github.io/personal_portfolio/](https://sainiaditya1.github.io/personal_portfolio/)
 
