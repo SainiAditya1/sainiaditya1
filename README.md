@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Devops**
 
-- 👨‍💻 All of my projects are available at [https://sainiaditya1.github.io/personal_portfolio/](https://sainiaditya1.github.io/personal_portfolio/)
+- 👨‍💻 All of my projects are available at [https://sainiaditya1.github.io/Web/](https://sainiaditya1.github.io/Web/)
 
 - 💬 Ask me about **React**
 
